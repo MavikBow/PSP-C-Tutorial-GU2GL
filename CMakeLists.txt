@@ -12,7 +12,6 @@ target_link_libraries(${PROJECT_NAME} PRIVATE
     pspdebug
     pspge
     pspvramalloc
-    #psputils
 )
 
 # Create an EBOOT.PBP file
